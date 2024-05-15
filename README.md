@@ -8,10 +8,11 @@
 
 Para rodar:
 
-Inicialize o play.sh no terminal. caso precise de permissão, use o comando chmod,
-Confira se o seu tamanho do seu terminal bate com o necessário,
-Insira o seu nome,
-Agora é só diversão!
+Inicialize o play.sh no terminal. caso precise de permissão, use o comando chmod;
+
+Confira se o seu tamanho do seu terminal bate com o necessário;
+
+Insira o seu nome:
 
 ```bash play.sh``` para iniciar o jogo.
 
