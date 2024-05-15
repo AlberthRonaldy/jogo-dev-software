@@ -6,13 +6,13 @@
 
 É necessário estar em um ambiente Linux, com o NCurses instalado.
 
-Para rodar:
+## Para rodar:
 
 Inicialize o play.sh no terminal. caso precise de permissão, use o comando chmod;
 
 Confira se o seu tamanho do seu terminal bate com o necessário;
 
-Insira o seu nome:
+Insira o seu nome;
 
 ```bash play.sh``` para iniciar o jogo.
 
